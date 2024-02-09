@@ -10,7 +10,9 @@
            
 ## 🙋‍♂️ About Me
 
-- 🎓 Web Developer| BA in Information Science and Web Technologies from Bar Ilan University.
+- 🎓 Web Developer | BA in Information Science and Web Technologies from Bar Ilan University.
+
+- 💼 Currently working at Ericsson as Cloud engineer.
 
 - 💪 Ambitious, self-motivated, hardworking person and a great team player.
 
